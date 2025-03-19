@@ -161,10 +161,6 @@
                 <i class="fas fa-phone"></i>
                 <a href="tel:+18176898756">+86 123-4567-890</a>
             </div>
-            <div class="contact-item">
-                <i class="fab fa-github"></i>
-                <a href="https://github.com/yourusername">GitHub</a>
-            </div>
         </section>
     </div>
  
